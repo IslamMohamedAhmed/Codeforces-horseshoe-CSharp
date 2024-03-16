@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\horseshoe\horseshoe\bin\Debug\net8.0\horseshoe.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\horseshoe\horseshoe\bin\Debug\net8.0\horseshoe.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\horseshoe\horseshoe\bin\Debug\net8.0\horseshoe.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\horseshoe\horseshoe\bin\Debug\net8.0\horseshoe.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\horseshoe\horseshoe\bin\Debug\net8.0\horseshoe.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\horseshoe\horseshoe\obj\Debug\net8.0\horseshoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\horseshoe\horseshoe\obj\Debug\net8.0\horseshoe.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\horseshoe\horseshoe\obj\Debug\net8.0\horseshoe.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\horseshoe\horseshoe\obj\Debug\net8.0\horseshoe.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\horseshoe\horseshoe\obj\Debug\net8.0\horseshoe.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\horseshoe\horseshoe\obj\Debug\net8.0\refint\horseshoe.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\horseshoe\horseshoe\obj\Debug\net8.0\horseshoe.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\horseshoe\horseshoe\obj\Debug\net8.0\horseshoe.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\horseshoe\horseshoe\obj\Debug\net8.0\ref\horseshoe.dll
